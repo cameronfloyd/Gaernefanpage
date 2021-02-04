@@ -27,13 +27,12 @@ body {
     display: block;
     padding-top: 0px;
 }
-
-.btn-social-icon {
-    color: rgb(218, 190, 63);
-}
-
-.btn-social-icon:hover {
-    color: black;
+.social {
+	color: rgb(218, 190, 63);
+	font-size: 50px;
+	margin-top: 20px;
+	margin-left:5px;
+	margin-right:5px;
 }
 
 address {
@@ -59,6 +58,7 @@ h2 {
     font-family: "Roboto";
     font-size: 50px;
 }
+
 .btn-outline-warning{
 	background-color: rgb(218, 190, 63);
 	color: black;
@@ -77,7 +77,7 @@ h2 {
 }
 .stats{
 	list-style-type: none;
-	
+
 }
 
 .container-fluid p {
@@ -86,6 +86,7 @@ h2 {
     font-family: "Roboto";
     font-size: 18px;
 }
+
 
 .modal-newsletter {	
 	color: #999;
